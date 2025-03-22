@@ -29,7 +29,7 @@
 ### 🧰 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,php,html,css,react,tauri,laravel,nodejs,tensorflow,aws,mysql,mongodb,vscode,clion,linux,git" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,php,html,css,react,tauri,laravel,nodejs,tensorflow,aws,mysql,graphql,mongodb,vscode,clion,linux,git" />
 </p>
 
 ---

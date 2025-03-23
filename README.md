@@ -10,11 +10,11 @@
 
 ### About Me
 
-- 👨‍💻 I'm interested in **software engineering, machine learning,** and **computer architecture**.
-- 🛠️ I'm currently working on a **mission-planning modular framework** for multi-robot systems (Turtlebot3 and a PX4 drone) leveraging generative AI.
+- 👨‍💻 I'm interested in **software engineering, machine learning,** and **computer architecture**
+- 🛠️ I'm currently working on a **mission-planning modular framework** for multi-robot systems (Turtlebot3 and a PX4 drone) leveraging generative AI
 - 🌱 Currently learning: **programming massively parallel processors**
 -  📚 Favorite course at AUC: **Modern Algebra** — enjoyed how it reveals hidden structures and elegance in mathematics
-- 📍 Based in **Cairo, Egypt**, studying at **The American University in Cairo**.
+- 📍 Based in **Cairo, Egypt**, studying at **The American University in Cairo**
 
 ---
 
